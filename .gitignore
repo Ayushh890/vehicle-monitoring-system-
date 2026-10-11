@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[c]
+*.class
+*.pyw
+venv/
+env/
+.env
+
+# Environment variables
+.env
+
+# UI
+node_modules/
+*.tgz
+
+# OS
+.DS_Store
+.Sublime-project
+.Sublime-workspace
+
+# Logs
+*.log
+*.tmp
+
+# IDE
+.idea/
+.vscode/
